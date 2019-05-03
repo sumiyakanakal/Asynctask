@@ -6,6 +6,6 @@
       What will I learn
       1)How to parse data by using Asynctask.
       2)Desining activity.
-     
+      And how to display the data through recyclerview.
       How Do I Complete this Project?
       Download the project and import it in android studio.
